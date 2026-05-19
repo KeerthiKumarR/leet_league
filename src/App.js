@@ -22,7 +22,7 @@ const LC_QUERY = `
         icon
       }
       badges {
-        id
+      id
         displayName
         icon
         creationDate
